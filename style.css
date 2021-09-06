@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background: rgb(200, 191, 55);
+    background: linear-gradient(0deg, rgba(200, 191, 55, 1) 0%, rgba(255, 0, 0, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 30x;
+}
+
+#img1 {
+    width: 750px;
+}
+
+.stuffIMGbtn {
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
+
+.stuffIMGbtn:hover {
+    background-color: dodgerblue;
+}
+
+#img2 {
+    width: 200px;
+}
+
+.menu{
+ list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+    position: absolute;
+}
+
+.links {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    float: left;
+
+}
